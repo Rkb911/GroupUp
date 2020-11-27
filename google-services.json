@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "806069940050",
+    "firebase_url": "https://groupup-bc0a7.firebaseio.com",
+    "project_id": "groupup-bc0a7",
+    "storage_bucket": "groupup-bc0a7.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:806069940050:android:d66bff565e17125b4fd48b",
+        "android_client_info": {
+          "package_name": "com.bruh.groupup"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "806069940050-7p50vlrvf969804aqg3lp9t8h8dasrem.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD757jWhOm5RW22rB-9fvtGsu7kj5w6E2s"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "806069940050-7p50vlrvf969804aqg3lp9t8h8dasrem.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
